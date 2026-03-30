@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\constructor\constructor\bin\Debug\net9.0\constructor.exe
+C:\Users\kas\Desktop\C#\constructor\constructor\bin\Debug\net9.0\constructor.deps.json
+C:\Users\kas\Desktop\C#\constructor\constructor\bin\Debug\net9.0\constructor.runtimeconfig.json
+C:\Users\kas\Desktop\C#\constructor\constructor\bin\Debug\net9.0\constructor.dll
+C:\Users\kas\Desktop\C#\constructor\constructor\bin\Debug\net9.0\constructor.pdb
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\constructor.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\constructor.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\constructor.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\constructor.dll
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\refint\constructor.dll
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\constructor.pdb
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\constructor.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\constructor\constructor\obj\Debug\net9.0\ref\constructor.dll

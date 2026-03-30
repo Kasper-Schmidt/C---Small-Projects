@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\bin\Debug\net9.0\constructorCars.exe
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\bin\Debug\net9.0\constructorCars.deps.json
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\bin\Debug\net9.0\constructorCars.runtimeconfig.json
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\bin\Debug\net9.0\constructorCars.dll
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\bin\Debug\net9.0\constructorCars.pdb
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\constructorCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\constructorCars.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\constructorCars.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\constructorCars.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\constructorCars.dll
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\refint\constructorCars.dll
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\constructorCars.pdb
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\constructorCars.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\constructorCars\constructorCars\obj\Debug\net9.0\ref\constructorCars.dll
