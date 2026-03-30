@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\bin\Debug\net9.0\MetodsBroCode.exe
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\bin\Debug\net9.0\MetodsBroCode.deps.json
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\bin\Debug\net9.0\MetodsBroCode.runtimeconfig.json
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\bin\Debug\net9.0\MetodsBroCode.dll
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\bin\Debug\net9.0\MetodsBroCode.pdb
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\MetodsBroCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\MetodsBroCode.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\MetodsBroCode.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\MetodsBroCode.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\MetodsBroCode.dll
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\refint\MetodsBroCode.dll
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\MetodsBroCode.pdb
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\MetodsBroCode.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\MetodsBroCode\MetodsBroCode\obj\Debug\net9.0\ref\MetodsBroCode.dll
