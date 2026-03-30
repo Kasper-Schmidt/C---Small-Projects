@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\bin\Debug\net9.0\StringCheck.exe
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\bin\Debug\net9.0\StringCheck.deps.json
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\bin\Debug\net9.0\StringCheck.runtimeconfig.json
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\bin\Debug\net9.0\StringCheck.dll
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\bin\Debug\net9.0\StringCheck.pdb
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\StringCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\StringCheck.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\StringCheck.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\StringCheck.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\StringCheck.dll
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\refint\StringCheck.dll
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\StringCheck.pdb
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\StringCheck.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\StringCheck\StringCheck\obj\Debug\net9.0\ref\StringCheck.dll

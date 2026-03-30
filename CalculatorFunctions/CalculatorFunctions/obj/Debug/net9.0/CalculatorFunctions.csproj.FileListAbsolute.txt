@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\bin\Debug\net9.0\CalculatorFunctions.exe
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\bin\Debug\net9.0\CalculatorFunctions.deps.json
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\bin\Debug\net9.0\CalculatorFunctions.runtimeconfig.json
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\bin\Debug\net9.0\CalculatorFunctions.dll
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\bin\Debug\net9.0\CalculatorFunctions.pdb
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\CalculatorFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\CalculatorFunctions.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\CalculatorFunctions.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\CalculatorFunctions.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\CalculatorFunctions.dll
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\refint\CalculatorFunctions.dll
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\CalculatorFunctions.pdb
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\CalculatorFunctions.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\CalculatorFunctions\CalculatorFunctions\obj\Debug\net9.0\ref\CalculatorFunctions.dll

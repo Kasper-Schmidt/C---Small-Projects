@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\net9.0\OddOrEvenNumber.exe
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\net9.0\OddOrEvenNumber.deps.json
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\net9.0\OddOrEvenNumber.runtimeconfig.json
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\net9.0\OddOrEvenNumber.dll
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\bin\Debug\net9.0\OddOrEvenNumber.pdb
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\OddOrEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\OddOrEvenNumber.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\OddOrEvenNumber.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\OddOrEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\OddOrEvenNumber.dll
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\refint\OddOrEvenNumber.dll
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\OddOrEvenNumber.pdb
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\OddOrEvenNumber.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\OddOrEvenNumber\OddOrEvenNumber\obj\Debug\net9.0\ref\OddOrEvenNumber.dll
