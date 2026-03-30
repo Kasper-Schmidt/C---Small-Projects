@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\bin\Debug\net9.0\FindBigLowAvg.exe
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\bin\Debug\net9.0\FindBigLowAvg.deps.json
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\bin\Debug\net9.0\FindBigLowAvg.runtimeconfig.json
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\bin\Debug\net9.0\FindBigLowAvg.dll
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\bin\Debug\net9.0\FindBigLowAvg.pdb
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\FindBigLowAvg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\FindBigLowAvg.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\FindBigLowAvg.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\FindBigLowAvg.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\FindBigLowAvg.dll
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\refint\FindBigLowAvg.dll
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\FindBigLowAvg.pdb
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\FindBigLowAvg.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\FindBigLowAvg\FindBigLowAvg\obj\Debug\net9.0\ref\FindBigLowAvg.dll

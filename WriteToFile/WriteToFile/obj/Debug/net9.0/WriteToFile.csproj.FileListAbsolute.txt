@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\bin\Debug\net9.0\WriteToFile.exe
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\bin\Debug\net9.0\WriteToFile.deps.json
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\bin\Debug\net9.0\WriteToFile.runtimeconfig.json
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\bin\Debug\net9.0\WriteToFile.dll
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\bin\Debug\net9.0\WriteToFile.pdb
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\WriteToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\WriteToFile.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\WriteToFile.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\WriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\WriteToFile.dll
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\refint\WriteToFile.dll
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\WriteToFile.pdb
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\WriteToFile.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\WriteToFile\WriteToFile\obj\Debug\net9.0\ref\WriteToFile.dll

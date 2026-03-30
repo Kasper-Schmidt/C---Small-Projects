@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\bin\Debug\net9.0\SortNumberInSize.exe
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\bin\Debug\net9.0\SortNumberInSize.deps.json
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\bin\Debug\net9.0\SortNumberInSize.runtimeconfig.json
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\bin\Debug\net9.0\SortNumberInSize.dll
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\bin\Debug\net9.0\SortNumberInSize.pdb
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\SortNumberInSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\SortNumberInSize.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\SortNumberInSize.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\SortNumberInSize.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\SortNumberInSize.dll
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\refint\SortNumberInSize.dll
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\SortNumberInSize.pdb
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\SortNumberInSize.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\SortNumberInSize\SortNumberInSize\obj\Debug\net9.0\ref\SortNumberInSize.dll
